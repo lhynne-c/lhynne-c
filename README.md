@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lhynne-c
-- 👀 I’m interested in learning Python and SQL at the moment and is interested in expanding more to other programming languages. 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and SQL.
 
 
 <!---
